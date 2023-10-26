@@ -41,6 +41,12 @@ Documents.
 
 ![Screenshot (20)](https://github.com/Rishika02/RSA-LEGAL/assets/67191705/b2df8d36-52af-40fb-a78a-bc1bf009858c)
 
+# Database Connectivity
+
+![next](https://github.com/Sara7117/RSA-LEGAL/assets/131382792/5955fed6-d7a6-492f-b5db-b92ada81dd8f)
+
+![next 1](https://github.com/Sara7117/RSA-LEGAL/assets/131382792/e193d41b-bc7e-4ef3-a0e8-dc7f7aae7ef9)
+
 # Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
