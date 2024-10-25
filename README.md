@@ -31,11 +31,12 @@ Documents.
 
 ![Screenshot (6)](https://github.com/Rishika02/RSA-LEGAL/assets/67191705/465dd1e6-0399-42bc-8ccf-3f31ed28eb3f)
 
-![Screenshot (8)](https://github.com/Rishika02/RSA-LEGAL/assets/67191705/8db733d5-d2ca-4d5b-ae26-0534b9159f46)
-
 ![Screenshot (12)](https://github.com/Rishika02/RSA-LEGAL/assets/67191705/977e946d-b1a9-44b9-90c6-4e494fff6b55)
 
 ![Screenshot (14)](https://github.com/Rishika02/RSA-LEGAL/assets/67191705/9e876437-936f-414c-b177-e4863ae53f54)
+
+![Screenshot (8)](https://github.com/Rishika02/RSA-LEGAL/assets/67191705/8db733d5-d2ca-4d5b-ae26-0534b9159f46)
+
 
 ![Screenshot (18)](https://github.com/Rishika02/RSA-LEGAL/assets/67191705/e52081e6-7a22-4963-ba62-7aed8d8405eb)
 
